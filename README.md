@@ -1,3 +1,4 @@
 # yuslihabidin.github.io
-# HAI BRO
-# Nama gue Yuslih
+# Moch Yuslih Abidin
+# 19610069
+# Pemrograman Komputer II (C)
